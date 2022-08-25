@@ -1,0 +1,40 @@
+body{
+    background-image:  linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("money\ \(2\).jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+
+.container{
+    text-align: center;
+    margin-top: 150px;
+}
+
+button{
+    font-size: 25px;
+    width: 71px;
+    background-color: rgb(220, 236, 232);
+    height: 50px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+input{
+    font-size: 25px;
+    width:300px;
+    margin: auto;
+    border-radius:10px;
+    height:55px;
+    border: solid 5px rgb(5, 63, 66);
+}
+
+
+.calbox{
+    background-color:rgba(58, 59, 59, 0.675);
+    display: inline-block;
+    border: solid 5px rgb(5, 83, 29);
+    border-radius: 8px;
+}
+h1{
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:rgba(16, 11, 12, 0.81)
+}
